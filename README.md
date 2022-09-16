@@ -1,6 +1,26 @@
 <div align='center'>
 <img width="450" src="./project-media/lispa-logo-500-200.svg" alt="lispa-logo">
 <p>The best free APIs all in one place.</p>
+
+<hr>
+
+Made with
+<ul>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://img.shields.io/badge/typescript%20-%231572B6.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=3178C6"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+</a>
+</a>
+<a href="https://nodejs.org/en/" target="_blank">
+<img src="https://img.shields.io/badge/node.js%20-%2343853Dsvg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://img.shields.io/badge/tailwind css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white&color=06B6D4" />
+</a>
+</ul>
+
 </div>
 
 <hr>
